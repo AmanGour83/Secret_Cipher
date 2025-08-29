@@ -83,13 +83,3 @@ Feel free to fork, modify, and enhance this project!
 The Caesar cipher was named after Julius Caesar, who reportedly used it to protect his military communications. Now you can too — minus the Roman army.
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
-
-```
-
----
-
-Let me know if you'd like to add badges, GitHub repo links, or even spice it up with ASCII art. I’m all in for making it pop!
